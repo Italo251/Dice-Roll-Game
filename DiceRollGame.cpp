@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 void play()
 {	
 	system("COLOR 79");
@@ -35,7 +34,6 @@ void playAgain()
 	{
 		cout << "\nEnding program...\n";
 	}
-
 }
 
 int main()
@@ -65,6 +63,5 @@ int main()
 	{
 		cout << "\nEnding program...\n";
 	}
-	
 	exit(0);
 }
